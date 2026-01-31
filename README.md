@@ -6,13 +6,13 @@
 <h1>Hi 👋, I'm Osama Hamdy Kamal</h1>
 <h3>Backend Developer | .NET | C#</h3>
 
-<p>
+## 👨‍💻 About Me
+
 - 💻 Back-End Developer specialized in **.NET / ASP.NET Core**
 - 🧠 Interested in **Clean Architecture, Design Patterns, Performance**
 - 🗄️ Strong background in **Databases & APIs**
 - 🚀 Always learning and improving my engineering skills
-- ☕ Debugging with coffee
-</p>
+- ☕ Debugging with coffee & good music
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OsamaHamdy&style=flat&color=orange&label=PROFILE+VIEWS)
 
