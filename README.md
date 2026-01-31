@@ -39,6 +39,17 @@
 ![T--SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat&logo=windows&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-orange)
+![Security](https://img.shields.io/badge/Security-Red?style=flat)
+![Identity](https://img.shields.io/badge/Identity-.NET?style=flat&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Orange?style=flat)
+![Caching](https://img.shields.io/badge/Caching-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=microsoft&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-Blue?style=flat)
+![Agile](https://img.shields.io/badge/Agile-FF6D00?style=flat)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 
 ---
 
