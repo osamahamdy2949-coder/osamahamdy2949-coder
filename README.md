@@ -17,14 +17,16 @@
 - 🚀 Always learning and improving my engineering skills
 - ☕ Debugging with coffee & good music
 
-  ## 📚 My Learning Journey
+## 📚 My Learning Journey
 
 - 🏁 Started learning programming and backend development: **2024**
 - 🗺️ Followed the structured roadmap by **Dr. Mohamed Abu Hadhoud** to build strong fundamentals
 - 💻 Implemented **multiple projects** throughout the learning path to practice real-world scenarios
+- 🎓 Enrolled in **Advanced Diploma in Computer Science** at **Cairo University**
+- 💼 Joined **Back-End .NET Diploma** with **Root Academy** to specialize in backend development
 - 📂 Recently started using **GitHub** to showcase my projects and track progress
 - 💡 Focused on mastering **.NET, C#, SQL, REST APIs, OOP, and Clean Code**
-
+  
 ---
 
 ## 🛠️ Tech Stack
